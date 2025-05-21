@@ -187,32 +187,32 @@
         <p>Dimsum lezat yang bikin nagih. Pesan sekarang dan nikmati kelezatannya!</p>
     </section>
 
-    <!-- Featured Menu Section -->
-    <section class="featured-menu py-5">
-        <div class="container">
-            <h2 class="text-center mb-4">Menu Spesial Kami</h2>
-            <div class="row">
-                <div class="col-md-4 mb-4">
-                    <div class="card">
-                        <img src="asset/admin3.jpg" class="card-img-top" alt="Dimsum Special 1">
-                        <div class="card-body text-center">
-                            <h5 class="card-title">Dimsum Mentai</h5>
-                            <p class="card-text">Nikmati rasa dimsum yang lezat dan menggugah selera.</p>
-                        </div>
+   <!-- Featured Menu Section -->
+<section class="featured-menu py-5">
+    <div class="container">
+        <h2 class="text-center mb-4">Menu Spesial Kami</h2>
+        <div class="row justify-content-center">
+            <div class="col-md-4 mb-4">
+                <div class="card">
+                    <img src="asset/admin3.jpg" class="card-img-top" alt="Dimsum Special 1">
+                    <div class="card-body text-center">
+                        <h5 class="card-title">Dimsum Mentai</h5>
+                        <p class="card-text">Nikmati rasa dimsum yang lezat dan menggugah selera.</p>
                     </div>
                 </div>
-                <div class="col-md-4 mb-4">
-                    <div class="card">
-                        <img src="asset/admin2.jpg" class="card-img-top" alt="Dimsum Special 2">
-                        <div class="card-body text-center">
-                            <h5 class="card-title">Dimsum Original</h5>
-                            <p class="card-text">Dimsum yang terbuat dari bahan terbaik, dijamin puas!</p>
-                        </div>
+            </div>
+            <div class="col-md-4 mb-4">
+                <div class="card">
+                    <img src="asset/admin2.jpg" class="card-img-top" alt="Dimsum Special 2">
+                    <div class="card-body text-center">
+                        <h5 class="card-title">Dimsum Original</h5>
+                        <p class="card-text">Dimsum yang terbuat dari bahan terbaik, dijamin puas!</p>
                     </div>
                 </div>
             </div>
         </div>
-    </section>
+    </div>
+</section>
 
     <!-- Testimonials Section -->
     <section class="testimonials bg-light py-5">
