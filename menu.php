@@ -175,8 +175,8 @@ if (isset($_GET['id']) && isset($_GET['action']) && $_GET['action'] == 'delete')
         </nav>
     </div>
 
-    <div class="container my-5">
-        <h2>Menu Dimsum Nduts</h2>
+   <div class="container my-5">
+    <h2 class="text-center">Menu Dimsum Nduts</h2>
 
        <div class="row justify-content-center">
             <?php
