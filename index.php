@@ -194,7 +194,7 @@
             <div class="row">
                 <div class="col-md-4 mb-4">
                     <div class="card">
-                        <img src="asset/admin3.jpg.jpeg" class="card-img-top" alt="Dimsum Special 1">
+                        <img src="asset/admin3.jpg" class="card-img-top" alt="Dimsum Special 1">
                         <div class="card-body text-center">
                             <h5 class="card-title">Dimsum Mentai</h5>
                             <p class="card-text">Nikmati rasa dimsum yang lezat dan menggugah selera.</p>
