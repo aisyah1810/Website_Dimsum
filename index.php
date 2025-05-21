@@ -194,28 +194,19 @@
             <div class="row">
                 <div class="col-md-4 mb-4">
                     <div class="card">
-                        <img src="asset/menu.jpeg" class="card-img-top" alt="Dimsum Special 1">
+                        <img src="asset/admin3.jpg.jpeg" class="card-img-top" alt="Dimsum Special 1">
                         <div class="card-body text-center">
-                            <h5 class="card-title">Dimsum Spesial 1</h5>
+                            <h5 class="card-title">Dimsum Mentai</h5>
                             <p class="card-text">Nikmati rasa dimsum yang lezat dan menggugah selera.</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-4 mb-4">
                     <div class="card">
-                        <img src="asset/menu.jpeg" class="card-img-top" alt="Dimsum Special 2">
+                        <img src="asset/menu_68217c798b68a0.63102752.jpeg" class="card-img-top" alt="Dimsum Special 2">
                         <div class="card-body text-center">
-                            <h5 class="card-title">Dimsum Spesial 2</h5>
+                            <h5 class="card-title">Dimsum Original</h5>
                             <p class="card-text">Dimsum yang terbuat dari bahan terbaik, dijamin puas!</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4 mb-4">
-                    <div class="card">
-                        <img src="asset/menu.jpeg" class="card-img-top" alt="Dimsum Special 3">
-                        <div class="card-body text-center">
-                            <h5 class="card-title">Dimsum Spesial 3</h5>
-                            <p class="card-text">Dimsum premium dengan cita rasa autentik yang menggoda.</p>
                         </div>
                     </div>
                 </div>
