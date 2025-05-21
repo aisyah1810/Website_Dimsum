@@ -1,8 +1,8 @@
 <?php
 // Ganti dengan informasi koneksi database kamu
-$host = 'mysql.railway.internal';    // Server database (biasanya localhost)
+$host = 'mysql-0plp.railway.internal';    // Server database (biasanya localhost)
 $username = 'root';     // Username database
-$password = 'SqrcXjjnHfwmpNNDgoxckGSvXtrHYRPv';         // Password database (kosong jika tidak ada)
+$password = 'YPJWZYbeEMqszvFkirRKwFjMRFAKbWgk';         // Password database (kosong jika tidak ada)
 $database = 'railway'; // Nama database yang benar
 $port = 3306;
 
