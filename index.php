@@ -203,7 +203,7 @@
                 </div>
                 <div class="col-md-4 mb-4">
                     <div class="card">
-                        <img src="asset/admin1.jpg" class="card-img-top" alt="Dimsum Special 2">
+                        <img src="asset/menu.jpeg" class="card-img-top" alt="Dimsum Special 2">
                         <div class="card-body text-center">
                             <h5 class="card-title">Dimsum Original</h5>
                             <p class="card-text">Dimsum yang terbuat dari bahan terbaik, dijamin puas!</p>
